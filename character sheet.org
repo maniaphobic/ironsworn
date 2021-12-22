@@ -149,7 +149,7 @@
 # together. If any of you make a move to increase supply, or suffer
 # the result of a move that reduces your supply, each of you adjust
 # your supply track accordingly.
-
+#
 # When your supply falls to 0, all characters make the Out of Supply
 # move (page 97). If you are at 0 supply and suffer additional
 # -supply, you each must reduce your health, spirit, or momentum
