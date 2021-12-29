@@ -1,4 +1,4 @@
-#+TITLE: Ironsworn Character Sheet
+#+TITLE: Ironsworn Character Sheet Template
 #+OPTIONS: toc:nil
 
 * Background
