@@ -1,0 +1,100 @@
+#+TITLE: The Stormlook World
+
+Driven from our blighted land, we fled the Old World. We call
+ourselves, the People Who Escaped, or simply /the People/.  Our
+old land inhospitable and desolate from the Spellplague, a malady
+created from the Galdr, people who made covenants with Djǫfull,
+spawning half-human creatures wielding magicks like a tool.  At
+first, life was easier, and we let them control society, but soon
+their ambition grew, and kingdoms warred, leaving nothing but
+fire, destruction and blood.
+
+We fled in wooden ships, hoping for a fertile new land.  We
+arrived in the Ironlands, a harsh world, but at least, it had
+timber, clean water, and game.  For the past two generations since
+we arrived, we've built small villages and settlements, Circles,
+led by an Overseer.  The land isn't very productive and the
+winters are long, dark and cold, and the Circles are the only
+protection.  As we struggle, we struggle together, and most
+Circles are communal, as everyone works together for the whole.
+Strangers are distrusted, for why would they forsake their own
+community if they weren't a valued member?
+
+The memory of the Old World is still fresh, and people fear and
+distrust the Old Way of Magick, and pray to the gods they feel had
+forsaken them, after their affair with the Djǫfull.  However, the
+stories of a the gods may just be that, stories.
+
+We feel we are not alone in this land.  We hear tales.  Rumors of
+strange beasts in the misty marshes and watchful eyes in the deep
+forests.  We believe others, which we call the Firstborn, walk
+silently through the forests, keeping to themselves.  Biding their
+time; for what, we do not know.
+
+We found inscrutable metal pillars are found throughout the land.
+Iron gray, and smooth as river stone.  No one knows their
+purpose. Some say they are as old as the world, while others say
+they were forged by the Firstborn, however,
+
+In game terms, I chose the middle road.  No high magic, but a step
+above a historical fiction, specifically:
+
+  - Old World :: Using a variation of the "plague" for the Old
+    World to justify their fear of magic.
+  - Iron :: Taking the third item, as that leaves the most
+    mystery.
+  - Legacies :: Are we the first humans here?
+  - Communities :: Small villages (only two generations), so roads
+    are paths and dangerous.
+  - Leaders :: I like the Overseer idea, as it would give us an
+    NPC per village.
+  - Defense :: In just two generations, we would just be starting
+    to get specialized, so militias would just be the best hunters
+    in a village, right?
+  - Mysticism :: People believe (and fear) monsters, magics and
+    the gods. However, no one has evidence or proof. Rumors they
+    are. Our characters, however, are the proof in that they could
+    use magic or even hear the gods. Granted, any supernatural
+    events surrounding the players could be dangerous.
+  - Religion :: The people honor old gods and new. In this harsh
+    land, a prayer is a simple but powerful comfort, but do the
+    gods hear and answer those prayers?
+  - Firstborn :: I like the idea of Firstborn being super
+    isolated, but haven't made real contact with the Ironlanders.
+  - Beasts :: Beasts could be there, but I think it would be nice
+    to have them rare.
+  - Horrors :: Same here. Skinwalkers could be cool, but it should
+    be pretty unique if we see something.
+
+We'll being our story in Stormlook, a town of 100 people or so
+situated in the Ragged Coast on the west side of the Ironlands.        
+
+As is customary for Ironlanders upon entering a new Circle, you
+made your way to the community long house, which serves as a
+village public house, as well as the living quarters for the head
+of the village, the Overseer.  Visitors are welcomed and can
+expect room and board, but visitors are expected to "earn their
+keep".  Since leaving the Old World and its currency, Ironlanders
+have developed a new tradition, and while not formal, the
+trandition has a /pattern/.
+
+  • Begins with the visitors introducing themselves, that they are
+    travelers, and typically explain a brief reason for their
+    arrival
+  • The Overseer will then introduce themself, and whoever is
+    around, and graciously offers meager accomodations in this
+    harsh land.
+  • The Overseer then will say, "What news of the land have you?"
+  • They visitors will then state the paths they've traveled and
+    what they've seen.  Typically, Overseers like to know the
+    going-ons surrounding their village.
+  • The Overseer will then tell of the happenings in the village.
+    The visitors are expected to pay close attention, for after
+    they have spoken...
+  • The visitors will offer their help to "the Overseer and this
+    Circle", and then be specific. For instance, if the Overseer
+    mentioned they are busy with the apple harvest, the visitors
+    will offer to help harvest.
+  • If the task is more than hunting/foraging/gathering, then the
+    visitor will grip some iron and swear a vow to complete the
+    task.

@@ -1,0 +1,349 @@
+#+TITLE: Rudy Baygah Character Sheet
+#+OPTIONS: toc:nil
+
+* Background
+
+Runs With Shovel Land Steward -- known by his common name, Rudy Baygah
+-- works as a farmer, growing root vegetables and grain in the
+hardscrable soil. His family's farming lineage extends back at least
+three generations, beyond which records are unavailable. His surname,
+Land Steward, reflects the family's contribution to the community. As
+per the tribe's custom, his parents conferred his given name based on
+what his father was doing just before his mother entered the birthing
+process. The tribe gives all children a common name to use within the
+broader community.
+
+Rudy also serves as a guide to travelers wishing to pass through the
+nearby wilds. He speaks not of his experiences and encounters in the
+there with members of the Circle. Some in the community believe his
+sojourns endanger the community, fearing that he maintains pacts with
+malevolent entities in order to survive the treacherous
+environs. Others are irresistibly attracted to his enigmatic
+aura. Regardless of their opinions about his other profession,
+however, the Circle relies on nourishment from his crops, meager
+though they are.
+
+Equipped with his encyclopedic knowledge of Ironland plants, Rudy
+skillfully employs flora as food and medicines. He often uses
+hallucinogens to gain insight into matters that defy logic.
+
+A childhood accident left Rudy with a partially disabled left hand. He
+developed proficiency with the bow and sling, but struggles to wield
+weapons requiring a two-handed grip.
+
+* Experience
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+|---+---+---+---+---+---+---+---+---+----+----+----+----+----+----|
+|   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+|   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+
+* Stats
+
+| Edge | Heart | Iron | Shadow | Wits |
+|------+-------+------+--------+------|
+|    2 |     1 |    1 |      2 |    3 |
+
+# Edge: Quickness, agility, and prowess in ranged combat
+# Heart: Courage, willpower, empathy, sociability, and loyalty
+# Iron: Physical strength, endurance, aggressiveness, and prowess in close combat
+# Shadow: Sneakiness, deceptiveness, and cunning
+# Wits: Expertise, knowledge, and observation
+
+* Bonds
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---+---+---+---+---+---+---+---+---+----|
+|   |   |   |   |   |   |   |   |   |    |
+
+# As you build relationships and complete quests in the service of
+# others, you create bonds by making the Forge a Bond move (page 74).
+#
+# Bonds provide narrative texture to your world by fleshing out other
+# characters and communities. They give you places to return to, and
+# people to reconnect with, when your life as Ironsworn has taken its
+# toll. Bonds also provide mechanical benefits when you act within a
+# community or interact with someone with whom you share a bond. For
+# example, the Sojourn move (page 71) gives you a bonus to your action
+# roll if you have a bond with that community.
+# 
+# The bonds progress track on your character sheet represents the
+# connections you have made. When you successfully Forge a Bond, you
+# mark progress (one tick). When your time as Ironsworn is done, you
+# Write Your Epilogue (page 77). When you make that move, you tally
+# the number of filled boxes on your bonds progress track as your
+# progress score. See page 14 to learn more about progress tracks and
+# progress moves.
+
+** 1: background bond
+
+Among the townspeople Rudy trusts is the village chronicler. She
+enjoys a reputation as a fair and honest journalist, traits that Rudy
+can leverage as he strives to win over those who doubt his loyalties.
+
+** 2: background bond
+
+Rudy has met a number of Firstborn while exploring the wilds. One race
+in particular accommodates Rudy's presence: the Llyth'radeans,
+wraithish entities who occupy areas where mist is prevalent. Humanoids
+intrigue them and with Stormlook being the nearest settlement, they
+aspire to establish mutually beneficial relations.
+
+Llyth'radean society is egalitarian and distributed, operating by
+consensus and without central authorities. Rudy has carefully curated
+a rapport with them, eventually winning a vote to establish an
+alliance. Rudy agreed to act as an intermediary, though he has yet to
+approach Stormlook's village council with a proposal. He anticipates
+sensitive negotiations and feels he needs to lay the proper groundwork
+to sway conservative members.
+
+In return, the Llyth'rades offered their sentinel brigade as
+protection. Being stealthy and expert trackers, they've often served
+in vanguard roles to alert Rudy of dangers. Their ability to project
+illusions also proves useful at drawing threats away. However, their
+phantasmal nature prevents them from offensive engagements with
+corporeal beings. They're likewise impervious to physical weaponry,
+though a skilled wielder of ghostly magic can expose their presence.
+
+** 3
+
+* Vows
+
+# When you Swear an Iron Vow (page 98), you give it a rank
+# (troublesome, dangerous, formidable, extreme, or epic), and record
+# it on your character sheet. You then use a vow progress track to
+# mark when you Reach a Milestone (page 100).
+
+** 1: background vow
+
+Rudy wants to comprehensively map the marches and forests that
+surround his Circle, and in the process win the trust of skeptical
+Stormlookers by proving that he sojourns there in the community's best
+interests.
+
+| Troublesome | Dangerous | Formidable | Extreme | Epic |
+|-------------+-----------+------------+---------+------|
+|             |           |            | x       |      |
+
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---+---+---+---+---+---+---+---+---+----|
+|   |   |   |   |   |   |   |   |   |    |
+
+** 2: inciting vow
+
+A rogue adventurer comes to Stormlook seeking a guide across the
+Hagorriy Swamp. This route offers a shortcut to Czastavia, an
+important Ironland trading post. However, legends of fierce creatures
+convince all but the hardiest of travelers to access the village via
+the sea. The adventurer refuses to divulge the reason for his haste
+and willingness to risk the treacherous crossing, but promises a
+lucrative reward for safe passage. Rudy likewise cherishes the
+opportunity to chart a hitherto dark territory.
+
+
+| Troublesome | Dangerous | Formidable | Extreme | Epic |
+|-------------+-----------+------------+---------+------|
+|             | x         |            |         |      |
+
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---+---+---+---+---+---+---+---+---+----|
+|   |   |   |   |   |   |   |   |   |    |
+
+** 3
+
+| Troublesome | Dangerous | Formidable | Extreme | Epic |
+|-------------+-----------+------------+---------+------|
+|             |           |            |         |      |
+
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---+---+---+---+---+---+---+---+---+----|
+|   |   |   |   |   |   |   |   |   |    |
+
+** 4
+
+| Troublesome | Dangerous | Formidable | Extreme | Epic |
+|-------------+-----------+------------+---------+------|
+|             |           |            |         |      |
+
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---+---+---+---+---+---+---+---+---+----|
+|   |   |   |   |   |   |   |   |   |    |
+
+** 5
+
+| Troublesome | Dangerous | Formidable | Extreme | Epic |
+|-------------+-----------+------------+---------+------|
+|             |           |            |         |      |
+
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---+---+---+---+---+---+---+---+---+----|
+|   |   |   |   |   |   |   |   |   |    |
+
+* Debilities
+
+** Conditions
+
+| Wounded | Shaken | Unprepared | Encumbered |
+|---------+--------+------------+------------|
+|         |        |            |            |
+
+**
+
+| Maimed | Corrupted |
+|--------+-----------|
+|        |           |
+
+** Burdens
+
+| Cursed | Tormented |
+|--------+-----------|
+|        |           |
+
+* Momentum
+
+| -6 | -5 | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|----+----+----+----+----+----+---+---+---+---+---+---+---+---+---+---+----|
+|    |    |    |    |    |    | x |   |   |   |   |   |   |   |   |   |    |
+
+
+| Max | Reset |
+|-----+-------|
+|  10 | 2     |
+
+# Momentum represents how you are faring in your quests. It is gained
+# and lost through moves. If you have positive momentum, you are
+# building on your successes and ready to make decisive moves. If you
+# have negative momentum, you have suffered setbacks and your quest is
+# in jeopardy.  To learn more about momentum and how it helps and
+# hinders your character, see page 11.
+# 
+# Use the momentum track on the left side of your character sheet to
+# record your current momentum. Your character sheet also includes
+# boxes to mark your max momentum and momentum reset.
+# 
+# • Your max momentum starts at +10, and is reduced by one for every
+# marked debility.
+# 
+# • Your momentum reset starts at +2. If you have a one debility
+# marked, your reset is +1. If you have more than one debility marked,
+# your reset is 0.
+# 
+# To learn more about debilities, see page 36.
+
+* Health
+
+| 0 | 1 | 2 | 3 | 4 | 5 |
+|---+---+---+---+---+---|
+|   |   |   |   |   | x |
+
+# Health represents your current physical condition and stamina,
+# ranked from 0 to +5. Health is reduced when you Endure Harm (page
+# 91), and increased when you rest or receive care through moves such
+# as Heal (page 63) or Sojourn (page 71).
+
+# If you are at 0 health, scoring a miss when you Endure Harm puts you
+# at risk of suffering a debility or dying.
+
+* Spirit
+
+| 0 | 1 | 2 | 3 | 4 | 5 |
+|---+---+---+---+---+---|
+|   |   |   |   |   | x |
+
+# Spirit is your current mental state, ranked from 0 to +5. Spirit is
+# reduced when you Endure Stress (page 95). It is increased when you
+# find comfort in companionship, success, or relaxed moments through
+# moves such as Make Camp (page 64) or Forge a Bond (page 74).
+
+# If you are at 0 spirit, scoring a miss when you Endure Stress puts
+# you at risk of suffering a debility or falling into desolation.
+
+* Supply
+
+| 0 | 1 | 2 | 3 | 4 | 5 |
+|---+---+---+---+---+---|
+|   |   |   |   |   | x |
+
+# Supply is an abstract representation of your preparedness, including
+# ammo, food, water, and general upkeep. It is ranked from 0 to
+# +5. Instead of keeping track of a detailed inventory, you can
+# consider most of your mundane gear as covered under supply.
+#
+# Supply is decreased when you make the Undertake a Journey move (page
+# 65). You might also reduce supply as a narrative cost when you face
+# hardships as an outcome of other moves. For example, if you make the
+# Face Danger move (page 60) to ford a wild river, you might lose some
+# gear as a result of a weak hit or miss. Supply is increased when you
+# gather provisions through moves such as Resupply (page 63).
+
+# The supply track represents the shared assets among your party. You
+# and your allies use the same supply value while you travel
+# together. If any of you make a move to increase supply, or suffer
+# the result of a move that reduces your supply, each of you adjust
+# your supply track accordingly.
+#
+# When your supply falls to 0, all characters make the Out of Supply
+# move (page 97). If you are at 0 supply and suffer additional
+# -supply, you each must reduce your health, spirit, or momentum
+# tracks by that amount.
+
+* Assets
+
+| Card      |
+|-----------|
+| Herbalist |
+| Wayfinder |
+| Archer    |
+
+# Assets represent your background, skills, and traits. They give you
+# additional options and bonuses when making a move—or sometimes act
+# as their own self-contained moves.
+# 
+# Assets provide both mechanical and narrative benefits. For example,
+# if you are an Herbalist, you gain bonuses to your moves when
+# treating injuries or sicknesses. You can envision your character
+# identifying plants, diagnosing rare illnesses, and summoning up
+# obscure facts about herbal remedies. Even when you aren’t making
+# moves, your role colors the interests and manner of your
+# character. Also, your expertise might offer story possibilities and
+# new quests as you interact with others in need of your services.
+# 
+# Ironsworn assets are formatted as printable cards, available for
+# download at ironswornrpg.com. Put them alongside your character
+# sheet for easy reference. Each asset card includes three abilities.
+
+* Equipment
+
+|   |   |
+|---+---|
+|   |   |
+
+# Make note of any important equipment or items you start with. These
+# are things that might impact the narrative and the moves you make,
+# or provide texture to your character’s background. They don’t offer
+# mechanical bonuses unless they are represented by an asset, such as
+# a weapon used in a combat talent.
+# 
+# You can assume you are equipped for travel and adventure as
+# represented by your supply track. Don’t worry about managing rations
+# or ammo or other mundane necessities.
+# 
+# There are no limitations by the rules, but envision your character’s
+# place in society and consider the availability of resources in your
+# version of the Ironlands. By default, a fine sword or a set of
+# quality armor is rare, and marks you as someone of note. It
+# influences how others react to you in the fiction of your game.
+# 
+# If you want to begin your adventures as a typical Ironlander,
+# envision yourself outfitted with cheap, mundane gear. A hand-me-down
+# set of quilted armor.  A ratty traveling cloak. A battered wooden
+# shield. A spear and a worn knife.  Improving your lot in life can be
+# part of your narrative journey.
+
+* Notes
+
