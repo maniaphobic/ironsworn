@@ -49,7 +49,7 @@ felt particularly adept at wielding daggers.
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---+---+---+---+---+---+---+---+---+----|
-|   |   |   |   |   |   |   |   |   |    |
+| X |   |   |   |   |   |   |   |   |    |
 
 # As you build relationships and complete quests in the service of
 # others, you create bonds by making the Forge a Bond move (page 74).
@@ -109,15 +109,20 @@ driven to resolve the blurry faces of the woman and child.
 |---+---+---+---+---+---+---+---+---+----|
 |   |   |   |   |   |   |   |   |   |    |
 
-** [2] inciting vow: repel an attack by nomadic raiders
+** [2] inciting vow: escape from shadowy kidnappers
 
-A platoon of raiders from a nomadic tribe threatens Stormlook's grain
-silo. Eager to test her courage in combat, Saeth sheaths her sharpest
-daggers and races to join the defenders.
+Saeth awakened in a dark room barely large enough to contain
+her. Thick, fibrous cords bound her hands and legs. Pale light
+struggled to creep beneath an iron door at her feet.
+
+She'd been with a group foraging herbs outside of Stormlook's
+perimeter when unseen assailants beset her party. Before she could
+rally her wits, an intense pain flared in her right arm and she lost
+consciousness.
 
 | Troublesome | Dangerous | Formidable | Extreme | Epic |
 |-------------+-----------+------------+---------+------|
-|             |           |            |         |      |
+|             | x         |            |         |      |
 
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -166,37 +171,6 @@ daggers and races to join the defenders.
 |            |        |            |            |
 
 ** Banes
-
-| Maimed | Corrupted |
-|--------+-----------|
-|        |           |
-
-** Burdens
-
-| Cursed | Tormented |
-|--------+-----------|
-|        |           |
-
-* Momentum
-
-| -6 | -5 | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|----+----+----+----+----+----+---+---+---+---+---+---+---+---+---+---+----|
-|    |    |    |    |    |    | x |   |   |   |   |   |   |   |   |   |    |
-
-
-| Max | Reset |
-|-----+-------|
-|  10 | 2     |
-
-* Debilities
-
-** Conditions
-
-| Wounded | Shaken | Unprepared | Encumbered |
-|---------+--------+------------+------------|
-|         |        |            |            |
-
-**
 
 | Maimed | Corrupted |
 |--------+-----------|
