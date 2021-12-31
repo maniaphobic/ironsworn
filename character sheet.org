@@ -27,6 +27,27 @@
 |---+---+---+---+---+---+---+---+---+----|
 |   |   |   |   |   |   |   |   |   |    |
 
+# As you build relationships and complete quests in the service of
+# others, you create bonds by making the Forge a Bond move (page 74).
+# 
+# Bonds provide narrative texture to your world by fleshing out other
+# characters and communities. They give you places to return to, and
+# people to reconnect with, when your life as Ironsworn has taken its
+# toll. Bonds also provide mechanical benefits when you act within a
+# community or interact with someone with whom you share a bond. For
+# example, the Sojourn move (page 71) gives you a bonus to your action
+# roll if you have a bond with that community.
+# 
+# The bonds progress track on your character sheet represents the
+# connections you have made. When you successfully Forge a Bond, you
+# mark progress (one tick). When your time as Ironsworn is done, you
+
+** [1] 
+
+** [2] 
+
+** [3] 
+
 * Vows
 
 # When you Swear an Iron Vow (page 98), you give it a rank
@@ -34,7 +55,7 @@
 # it on your character sheet. You then use a vow progress track to
 # mark when you Reach a Milestone (page 100).
 
-** 1: background vow
+** [1] background vow
 
 | Troublesome | Dangerous | Formidable | Extreme | Epic |
 |-------------+-----------+------------+---------+------|
@@ -45,7 +66,7 @@
 |---+---+---+---+---+---+---+---+---+----|
 |   |   |   |   |   |   |   |   |   |    |
 
-** 2: inciting vow
+** [2] inciting vow
 
 | Troublesome | Dangerous | Formidable | Extreme | Epic |
 |-------------+-----------+------------+---------+------|
@@ -56,7 +77,7 @@
 |---+---+---+---+---+---+---+---+---+----|
 |   |   |   |   |   |   |   |   |   |    |
 
-** 3
+** [3]
 
 | Troublesome | Dangerous | Formidable | Extreme | Epic |
 |-------------+-----------+------------+---------+------|
@@ -67,7 +88,7 @@
 |---+---+---+---+---+---+---+---+---+----|
 |   |   |   |   |   |   |   |   |   |    |
 
-** 4
+** [4]
 
 | Troublesome | Dangerous | Formidable | Extreme | Epic |
 |-------------+-----------+------------+---------+------|
@@ -78,7 +99,7 @@
 |---+---+---+---+---+---+---+---+---+----|
 |   |   |   |   |   |   |   |   |   |    |
 
-** 5
+** [5]
 
 | Troublesome | Dangerous | Formidable | Extreme | Epic |
 |-------------+-----------+------------+---------+------|
@@ -119,81 +140,6 @@
 | Max | Reset |
 |-----+-------|
 |  10 | 2     |
-
-# When you Swear an Iron Vow (page 98), you give it a rank
-# (troublesome, dangerous, formidable, extreme, or epic), and record
-# it on your character sheet. You then use a vow progress track to
-# mark when you Reach a Milestone (page 100).
-
-** 1: background vow
-
-Rudy wants to comprehensively map the marches and forests that
-surround his Circle, and in the process win the trust of skeptical
-Stormlookers by proving that he sojourns there in the community's best
-interests.
-
-| Troublesome | Dangerous | Formidable | Extreme | Epic |
-|-------------+-----------+------------+---------+------|
-|             |           |            | x       |      |
-
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---+---+---+---+---+---+---+---+---+----|
-|   |   |   |   |   |   |   |   |   |    |
-
-** 2: inciting vow
-
-A rogue adventurer comes to Stormlook seeking a guide across the
-Hagorriy Swamp. This route offers a shortcut to Czastavia, an
-important Ironland trading post. However, legends of fierce creatures
-convince all but the hardiest of travelers to access the village via
-the sea. The adventurer refuses to divulge the reason for his haste
-and willingness to risk the treacherous crossing, but promises a
-lucrative reward for safe passage. Rudy likewise cherishes the
-opportunity to chart a hitherto dark territory.
-
-
-| Troublesome | Dangerous | Formidable | Extreme | Epic |
-|-------------+-----------+------------+---------+------|
-|             | x         |            |         |      |
-
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---+---+---+---+---+---+---+---+---+----|
-|   |   |   |   |   |   |   |   |   |    |
-
-** 3
-
-| Troublesome | Dangerous | Formidable | Extreme | Epic |
-|-------------+-----------+------------+---------+------|
-|             |           |            |         |      |
-
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---+---+---+---+---+---+---+---+---+----|
-|   |   |   |   |   |   |   |   |   |    |
-
-** 4
-
-| Troublesome | Dangerous | Formidable | Extreme | Epic |
-|-------------+-----------+------------+---------+------|
-|             |           |            |         |      |
-
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---+---+---+---+---+---+---+---+---+----|
-|   |   |   |   |   |   |   |   |   |    |
-
-** 5
-
-| Troublesome | Dangerous | Formidable | Extreme | Epic |
-|-------------+-----------+------------+---------+------|
-|             |           |            |         |      |
-
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---+---+---+---+---+---+---+---+---+----|
-|   |   |   |   |   |   |   |   |   |    |
 
 * Debilities
 
