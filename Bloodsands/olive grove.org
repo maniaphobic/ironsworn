@@ -1,0 +1,23 @@
+#+TITLE: Olive Grove Campaign
+
+* Setting
+
+An Arab scout unit patroling lands north of Mashiq comes across a
+small band of Crusaders camped in an olive grove. They sit around a
+fire and number about eight, comprised of warriors, archers, and
+squires. One wears the vestments of clergy. An equipment-laden horse
+is tied to a tree just outside the light cast by the fire.
+
+Reports suggest that a large column of enemy soldiers marches to the
+east of Mashiq. The camped soldiers may be scouts.
+
+The militia commander dispatches Ahmed's unit to attack the encamped
+soldiers with two objectives:
+
+  - assuming they're a detachment from the large force, prevent them
+    from escaping to report the raid by Ahmed's unit. this might draw
+    the invaders toward Mashiq.
+  - recover as many weapons and supplies as possible
+
+Ahmed's unit contains ten personnel: five infantry warriors, two
+mounted warriors, and three archers. Abdullah is an archer.
